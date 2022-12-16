@@ -11,31 +11,31 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://172.20.11.12:8080/app.ipa</string>
+                    <string>https://172.20.11.12:8080/jjl_signed.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://172.20.11.12:8080/57.png</string>
+                    <string>https://172.20.11.12:8080/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://172.20.11.12:8080/512.png</string>
+                    <string>https://172.20.11.12:8080/512.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.xuankai.milkTv</string>
+                <string>com.jjl.game</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>FanweApp</string>
+                <string>家家乐</string>
             </dict>
         </dict>
     </array>
